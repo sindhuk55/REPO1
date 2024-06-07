@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6A29-BECE
+
+ Directory of C:\Users\pc\Desktop\project1
+
+07/06/2024  11:27    <DIR>          .
+07/06/2024  11:27    <DIR>          ..
+07/06/2024  11:27                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  157,630,513,152 bytes free
